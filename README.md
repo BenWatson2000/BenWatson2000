@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BenWatson2000
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning modules on system security and data science
+- 👀 I’m interested in Data Science and machine learning.
+- 🌱 I’m currently studying my masters at Newcastle University taking modules in System Security and Data Science
